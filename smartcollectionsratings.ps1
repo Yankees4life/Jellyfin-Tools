@@ -1,6 +1,6 @@
 # Jellyfin server settings
 $jellyfin_url = 'http://localhost:8096'
-$jellyfin_api_key = 'ff1d4ab8714649d58612dc62296c799a'
+$jellyfin_api_key = ''
 
 # Set up the collection criteria
 $collection_name = 'Highly Rated Movies'
