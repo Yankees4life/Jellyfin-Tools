@@ -1,9 +1,9 @@
 # Set Jellyfin server information
 $server = "http://localhost:8096"
-$apiKey = "ff1d4ab8714649d58612dc62296c799a"
+$apiKey = ""
 
 # Set library ID
-$libraryId = "0c41907140d802bb58430fed7e2cd79e"
+$libraryId = ""
 
 # Set tag names and corresponding collection names
 $tagsToCollections = @{
