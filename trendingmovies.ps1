@@ -1,9 +1,9 @@
 # Set variables
 $jellyfinServerURL = "http://localhost:8096"
-$jellyfinAPIKey = "ff1d4ab8714649d58612dc62296c799a"
+$jellyfinAPIKey = ""
 $libraries = @{
-    "f137a2dd21bbc1b99aa5c0f6bf02a805" = "Trending Movies";
-    "f6701918984cfeee4d03fbad35f799df" = "Trending Movies 18+";
+    "" = "Trending Movies";
+    "" = "Trending Movies 18+";
 }
 $minRating = 7
 $minYear = 2022
