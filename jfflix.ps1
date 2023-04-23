@@ -1,9 +1,9 @@
 # Set Jellyfin server URL and API key
 $jellyfinUrl = "http://localhost:8096"
-$jellyfinApiKey = "ff1d4ab8714649d58612dc62296c799a"
+$jellyfinApiKey = ""
 
 # Set The Movie DB API key
-$tmdbApiKey = "9de77d3de6c2c584323cf836361e8212"
+$tmdbApiKey = ""
 
 # Get all movies and shows from Jellyfin library
 $allItemsUrl = "$jellyfinUrl/Items?api_key=$jellyfinApiKey&Recursive=true&IncludeItemTypes=Movie,Series"
